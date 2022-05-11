@@ -6,7 +6,7 @@
 			<x>24.35</x>
 			<y>69.96</y>
 		</coordinates>
-		<creationDate>11.09.2003</creationDate>
+		<creationDate>11-09-2003</creationDate>
 		<area>42</area>
 		<population>69420</population>
 		<metersAboveSeaLevel>69</metersAboveSeaLevel>
@@ -15,16 +15,16 @@
 		<standardOfLiving>LOW</standardOfLiving>
 		<governor>
 			<govName>Sergay</govName>
-			<birthday>2018-07-10T20:28:33.213+05:30</birthday>
+			<birthday>10-10-1010 10:10:10</birthday>
 		</governor>
 	</City>
-	<City id="69421">
+	<City id="69420">
 		<name>Верхнекамск</name>
 		<coordinates>
 			<x>35.24</x>
 			<y>96.69</y>
 		</coordinates>
-		<creationDate>09.11.3021</creationDate>
+		<creationDate>09-11-3021</creationDate>
 		<area>51</area>
 		<population>42069</population>
 		<metersAboveSeaLevel>96</metersAboveSeaLevel>
@@ -33,7 +33,7 @@
 		<standardOfLiving>VERY_HIGH</standardOfLiving>
 		<governor>
 			<govName>VLADIMIR</govName>
-			<birthday>0000-10-07T20:28:33.213+05:30</birthday>
+			<birthday>01-04-0001 20:28:33</birthday>
 		</governor>
 	</City>
 	<City id="69421">
@@ -42,7 +42,7 @@
 			<x>35.24</x>
 			<y>96.69</y>
 		</coordinates>
-		<creationDate>09.11.3021</creationDate>
+		<creationDate>09-11-3021</creationDate>
 		<area>51</area>
 		<population>42069</population>
 		<metersAboveSeaLevel>96</metersAboveSeaLevel>
@@ -60,7 +60,7 @@
 			<x>35.24</x>
 			<y>96.69</y>
 		</coordinates>
-		<creationDate>09.11.3021</creationDate>
+		<creationDate>09-11-3021</creationDate>
 		<area>51</area>
 		<population>42069</population>
 		<metersAboveSeaLevel>96</metersAboveSeaLevel>
@@ -78,7 +78,7 @@
 			<x>35.24</x>
 			<y>96.69</y>
 		</coordinates>
-		<creationDate>09.11.3021</creationDate>
+		<creationDate>09-11-3021</creationDate>
 		<area>51</area>
 		<population>42069</population>
 		<metersAboveSeaLevel>96</metersAboveSeaLevel>
